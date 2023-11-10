@@ -29,8 +29,8 @@ Tasks have a checkbox that users can mark to indicate completion.
 The appearance of completed tasks change to visually distinguish them from active tasks. The completed tasks would be striked off.
 2. https://www.loom.com/share/d7933dc0ded44447ac2382868e01dd92?sid=9c2e2179-fc4e-4379-b2ed-361cb683bd99
 ## Libraries used
-HTML
-CSS
+HTML,
+CSS,
 Javascript
 ## How to configure
 In order to configure the website on your local machine, run the following commands:
