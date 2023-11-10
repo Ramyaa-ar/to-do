@@ -33,9 +33,13 @@ HTML
 CSS
 Javascript
 ## How to configure
-Inorder to configure the website in your local machine run the following commands:
-`git clone https://github.com/Ramyaa-ar/to-do.git`
-`cd to-do`
+In order to configure the website on your local machine, run the following commands:
+
+```bash
+git clone https://github.com/Ramyaa-ar/to-do.git
+cd to-do
+```
+
 By cloning the repository, you're creating a local copy of the project on your machine. If you don't have Git installed, you can download it from git-scm.com.
 ## How to Run
 1. Open in Browser:
