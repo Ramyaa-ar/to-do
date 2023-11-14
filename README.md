@@ -51,3 +51,5 @@ This can usually be done by right-clicking on the HTML file and selecting "Open 
 2. Explore the To-Do App:
 
 Once the HTML file is opened in the browser, you should be able to interact with and explore the features of to-do.
+
+3. Or you can access it through this link: https://ramyaa-ar.github.io/to-do/
